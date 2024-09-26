@@ -1,1 +1,1 @@
-# open-AI-chat-pot
+# Nursing teacher-AI-chat-pot
